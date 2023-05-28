@@ -5,7 +5,7 @@ export const metadata = {
 
 export default function Blog() {
   return <>
-  <div className="container">
+  <div className="container mx-auto">
     <h1>Blogs</h1>
   </div>
   </>;
