@@ -6,7 +6,7 @@ export default function About() {
   return (
     <>
       <div className="mx-auto container">
-        <h1>About</h1>
+        <h1 className="text-white text-3xl font-bold leading-10">About</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
           suscipit, et iste dolorem, mollitia ea laudantium ratione beatae quas

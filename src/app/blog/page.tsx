@@ -7,8 +7,21 @@ export default function Blog() {
   return (
     <>
       <div className="container mx-auto">
-        <h1>Blogs</h1>
+        <h1 className="text-white text-3xl font-bold leading-10">Blogs</h1>
         <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          nobis quae cupiditate consequatur delectus. Quisquam blanditiis
+          pariatur error, eius magni non a minus obcaecati voluptatem explicabo
+          iusto exercitationem, at magnam debitis esse praesentium quos,
+          reprehenderit quasi. Voluptatem architecto pariatur enim autem neque,
+          nemo culpa? Dolor suscipit nisi autem modi vel ipsa officiis! Eum enim
+          voluptates, saepe odio reiciendis magnam, deserunt magni sapiente
+          dolor maxime accusantium. Molestiae porro, sint excepturi veniam dicta
+          a exercitationem eius est dolores saepe, adipisci necessitatibus
+          rerum.
+        </p>
+        <h1 className="text-white text-right text-3xl font-bold leading-10">Hello World</h1>
+        <p className="text-right">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
           nobis quae cupiditate consequatur delectus. Quisquam blanditiis
           pariatur error, eius magni non a minus obcaecati voluptatem explicabo

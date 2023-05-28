@@ -28,7 +28,7 @@ body {
 .container{
     max-width: 1140px;
     margin: 0 auto;
-    padding: 5%;
+    padding: 2% 5%; 
     /* Give minimum width to the container */
-    min-width: 90%;
+    min-width: 85%;
 }
